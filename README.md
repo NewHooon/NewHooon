@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+![NewHooon's GitHub stats](https://github-readme-stats.vercel.app/api?username=NewHooon&show_icons=true&theme=dark)   
+![NewHooon's GitHub stats](https://github-readme-stats.vercel.app/api?username=NewHooon&show_icons=true&theme=radical)  
+![NewHooon's GitHub stats](https://github-readme-stats.vercel.app/api?username=NewHooon&show_icons=true&theme=merko)  
+![NewHooon's GitHub stats](https://github-readme-stats.vercel.app/api?username=NewHooon&show_icons=true&theme=gruvbox)  
+![NewHooon's GitHub stats](https://github-readme-stats.vercel.app/api?username=NewHooon&show_icons=true&theme=tokyonight)  
+![NewHooon's GitHub stats](https://github-readme-stats.vercel.app/api?username=NewHooon&show_icons=true&theme=onedark)  
+![NewHooon's GitHub stats](https://github-readme-stats.vercel.app/api?username=NewHooon&show_icons=true&theme=cobalt)  
+![NewHooon's GitHub stats](https://github-readme-stats.vercel.app/api?username=NewHooon&show_icons=true&theme=synthwave)  
+![NewHooon's GitHub stats](https://github-readme-stats.vercel.app/api?username=NewHooon&show_icons=true&theme=highcontrast)  
+![NewHooon's GitHub stats](https://github-readme-stats.vercel.app/api?username=NewHooon&show_icons=true&theme=dracula)
+
 <!--
 **NewHooon/NewHooon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
