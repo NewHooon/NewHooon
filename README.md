@@ -13,11 +13,15 @@
 
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
 
+<br>
+
 ## 🛠 Project
 |                                              Project                                              | Language | Year |
 | :-----------------------------------------------------------------------------------------------: | :--: | :--: |
 | [MSG(Money Save Game) - 소비 지출 절약 챌린지](https://github.com/NewHooon/MsgProject)               |    Swift    | 2022 |
 | [길가온 - 위치 기반 다이어리](https://github.com/NewHooon/GilgaonProject)  |    Swift    | 2022 |
+
+<br>
 
 ## 📌 experience
 - LikeLion iOS AppSchool
