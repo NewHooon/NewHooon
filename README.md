@@ -1,9 +1,29 @@
-### Hi there 👋
-🍏에서 🍎가 되는 그 날까지..
+# Hi there 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNewHooon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## 😎 Profile
+
+🎓　I'm a college student studying computer education
+
+📱　I'm developing iOS applications.
+
+"🍏에서 🍎가 되는 그 날까지.."
+<br></br>
+
+## 🛠 Language
+
+
+## 🛠 Project
+|                                              Project                                              | Language | Year |
+| :-----------------------------------------------------------------------------------------------: | :--: | :--: |
+| [MSG(Money Save Game) - 소비 지출 절약 챌린지](https://github.com/NewHooon/MsgProject)               |    Swift    | 2022 |
+| [길가온 - 위치 기반 다이어리](https://github.com/NewHooon/GilgaonProject)  |    Swift    | 2022 |
+
+## experience
+- LikeLion iOS AppSchool
+
 <br>
 <br>
+
 ![NewHooon's GitHub stats](https://github-readme-stats.vercel.app/api?username=NewHooon&show_icons=true&theme=dark)   
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tpgns97)](https://solved.ac/tpgns97) -->
 <!--
