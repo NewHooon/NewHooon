@@ -2,11 +2,11 @@
 
 ## 😎 Profile
 
-🎓　I'm a college student studying computer education
+- 🎓　I'm a college student studying computer education
 
-📱　I'm developing iOS applications.
+- 📱　I'm developing iOS applications.
 
-"🍏에서 🍎가 되는 그 날까지.."
+- "🍏에서 🍎가 되는 그 날까지.."
 <br></br>
 
 ## 🛠 Language
