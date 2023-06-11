@@ -18,6 +18,7 @@
 ## 🛠 Project
 |                                              Project                                              | Language | Year |
 | :-----------------------------------------------------------------------------------------------: | :--: | :--: |
+| 전기도둑단(가제)⚡️              |    Swift    | 2023 |
 | [MSG(Money Save Game) - 소비 지출 절약 챌린지](https://github.com/NewHooon/MsgProject)               |    Swift    | 2022 |
 | [길가온 - 위치 기반 다이어리](https://github.com/NewHooon/GilgaonProject)  |    Swift    | 2022 |
 
